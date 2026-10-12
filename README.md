@@ -40,33 +40,6 @@
 ## 💚 About Me
 
 
-class NamrathaUppasala:
-    name = "Namratha Uppasala"
-    education = "B.Tech CSE (Data Science)"
-    college = "CMR Institute of Technology"
-    location = "Hyderabad, India"
-    cgpa = 8.81
-
-    skills = [
-        "Python",
-        "Java (Basic)",
-        "HTML",
-        "CSS",
-        "Data Structures & Algorithms",
-        "Tableau",
-        "ServiceNow",
-        "GitHub"
-    ]
-
-    interests = [
-        "Software Development",
-        "Data Science",
-        "AI and Automation",
-        "Problem Solving"
-    ]
-
-    motto = "Learn. Build. Improve. Repeat."
-
 - 🎓 Computer Science student specializing in Data Science.
 - 💻 Interested in building practical, user-focused software applications.
 - 🧠 Strong foundation in programming and computer science fundamentals.
