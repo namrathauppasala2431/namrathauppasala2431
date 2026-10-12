@@ -39,7 +39,7 @@
 
 ## 💚 About Me
 
-```python
+
 class NamrathaUppasala:
     name = "Namratha Uppasala"
     education = "B.Tech CSE (Data Science)"
@@ -54,7 +54,8 @@ class NamrathaUppasala:
         "CSS",
         "Data Structures & Algorithms",
         "Tableau",
-        "ServiceNow"
+        "ServiceNow",
+        "GitHub"
     ]
 
     interests = [
@@ -65,7 +66,6 @@ class NamrathaUppasala:
     ]
 
     motto = "Learn. Build. Improve. Repeat."
-```
 
 - 🎓 Computer Science student specializing in Data Science.
 - 💻 Interested in building practical, user-focused software applications.
